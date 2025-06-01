@@ -1,3 +1,0 @@
-Known bugs: 
-    - stage 2, perror to show command used
-    - 
